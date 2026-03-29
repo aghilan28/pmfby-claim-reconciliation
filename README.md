@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PMFBY Claim Reconciliation Tool
 
 ## Problem Statement
@@ -96,3 +97,7 @@ Area difference: `0.05 ha` → exceeds `0.01 ha` threshold → **MISMATCH**
 - **Frontend**: HTML5 + Tailwind CSS CDN (single file)
 - **Data**: Hardcoded JSON (no database)
 - **Auth**: None (demo prototype)
+=======
+# pmfby-claim-reconciliation
+PMFBY Claim Reconciliation Tool - GenAI Hackathon Project
+>>>>>>> 0079fb7f407ca90a6a1dd55182ddbc60c5c461de
