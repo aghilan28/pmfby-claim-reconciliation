@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PMFBY Claim Reconciliation Tool
 
 ## Problem Statement
@@ -45,28 +45,6 @@ project-root/
 
 ---
 
-## Setup & Run
-
-### 1. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Start the Flask server
-
-```bash
-python backend/app.py
-```
-
-### 3. Open in browser
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 ## API Routes
 
 | Method | Route              | Description                        |
@@ -100,4 +78,6 @@ Area difference: `0.05 ha` → exceeds `0.01 ha` threshold → **MISMATCH**
 =======
 # pmfby-claim-reconciliation
 PMFBY Claim Reconciliation Tool - GenAI Hackathon Project
->>>>>>> 0079fb7f407ca90a6a1dd55182ddbc60c5c461de
+
+BY DELUTION TECH
+
